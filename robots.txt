@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aszimpla.github.io/sitemap.html.gz
+Sitemap: https://aszimpla.github.io/app/sitemap.html.gz
+Sitemap: https://aszimpla.github.io/assets/sitemap.html.gz
+Sitemap: https://aszimpla.github.io/css/sitemap.html.gz
+Sitemap: https://aszimpla.github.io/includes/sitemap.html.gz
+Sitemap: https://aszimpla.github.io/item/sitemap.html.gz
+Sitemap: https://aszimpla.github.io/src/sitemap.html.gz
